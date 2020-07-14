@@ -66,7 +66,8 @@ module.exports = {
       "jsx": "never",
       "ts": "never",
       "tsx": "never"
-    }]
+    }],
+    "space-before-function-paren": 0,
   },
   "settings": {
     "react": {

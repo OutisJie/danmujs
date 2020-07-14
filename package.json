@@ -50,6 +50,7 @@
   "dependencies": {
     "@ant-design/icons": "^4.0.2",
     "antd": "^4.0.2",
+    "axios": "^0.19.2",
     "immer": "^6.0.5",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
