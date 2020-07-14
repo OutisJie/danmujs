@@ -62,7 +62,8 @@
       "utils/*": ["src/utils/*"],
       "api/*": ["src/api/*"],
       "store/*": ["src/store/*"],
-      "my_module/*": ["src/my_module/*"]
+      "my_module/*": ["src/my_module/*"],
+      "constant/*": ["src/constant/*"]
     },
     /* Experimental Options */
     "experimentalDecorators": true,        /* Enables experimental support for ES7 decorators. */

@@ -88,6 +88,7 @@ module.exports = {
       api: path.resolve(__dirname, '../src/api'),
       utils: path.resolve(__dirname, '../src/utils'),
       my_module: path.resolve(__dirname, '../src/my_module'),
+      constant: path.resolve(__dirname, '../src/constant'),
       'react-dom': '@hot-loader/react-dom'
       // 理论上加了这个之后可以支持 hooks reloading。但是ts 项目必须要用babel plugin,本项目用 ts 不用 babel。
       // 综上，本项目不支持 hooks reloading,完全依赖 webpack HMR。
